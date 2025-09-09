@@ -61,3 +61,7 @@ AMIs:
 
 No Amazon EC2, uma imagem de máquina da Amazon (AMI) faz o backup de um servidor interno, incluindo todos os volumes EBS anexadas. Já o Snapshot é uma cópia pontual de um determinado volume, armazenadas na Amazon A3.
 
+## Referências
+- [Documentação AWS - Gerenciando EC2 instâncias da Amazon](https://docs.aws.amazon.com/pt_br/toolkit-for-visual-studio/latest/user-guide/tkv-ec2-ami.html)
+- [Documentação AWS - O que é a Amazon EC2?](https://docs.aws.amazon.com/pt_br/AWSEC2/latest/UserGuide/concepts.html)
+- [Aulas do Curso da DIO - Santander Code Girls](https://web.dio.me/track/santander-code-girls-2025) 
