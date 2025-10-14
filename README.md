@@ -24,9 +24,8 @@ A Amazon EC2, fornece os seguintes recursos:
 - Grupos de Segurança: um firewall da Amazon.
 
 ## Instâncias 
-Uma instâncias do EC2 é um serviço virtual na nuvem AWS. O tipo de instância que você especifica determina o hardware disponível para a sua instância.  
-Escolher a instância correta na AWS é crucial para garantir eficiência, estabilidade e econimia nos gastos com a nuvem. E para isso, precisamos entender as necessidades de sua aplicação.  
-Cada tipo de instância oferece diferentes recursos de computação.
+Uma instância do EC2 é uma máquina virtual executada na nuvem da AWS. O tipo de instância selecionado define as características de hardware disponíveis para o uso. 
+Escolher o tipo de instância adequado é essencial para garantir o desempenho, a estabilidade e o uso eficiente dos recursos financeiros na nuvem. Para isso, é fundamental compreender as necessidades específicas da aplicação. Cada categoria de instância oferece diferentes capacidades de processamento, memória e armazenamento.
 
 Instance Types:
 - General Purpose: A1, T4g, T3, ...
